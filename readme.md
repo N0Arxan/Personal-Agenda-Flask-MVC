@@ -1,7 +1,7 @@
 
 # Flask MVC Project
 
-Welcome to the **Flask MVC Project**! This project follows the Model-View-Controller (MVC) architecture and is designed for rapid development with Flask and MongoDB (Atlas).
+Welcome to the **Flask MVC Personal-Agenda**! This project follows the Model-View-Controller (MVC) architecture and is designed for rapid development with Flask and MongoDB (Atlas) and has basic user auhtentication.
 
 ---
 
